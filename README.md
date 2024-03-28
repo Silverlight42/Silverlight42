@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Software developer that likes to work and understand more about Apache Spark/Scala.
+Software developer that likes to work with and understand more about Apache Spark/Scala.
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Silverlight42&count_private=true&theme=tokyonight&showicons=true)]()
 
