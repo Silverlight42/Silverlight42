@@ -2,6 +2,8 @@
 
 Software developer that likes to work with and understand more about Apache Spark/Scala.
 
+![](https://komarev.com/ghpvc/?username=Silverlight42&color=blue)
+
 <!--
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Silverlight42&count_private=true&theme=tokyonight&showicons=true)]()
 
